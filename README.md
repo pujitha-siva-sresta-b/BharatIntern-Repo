@@ -50,3 +50,6 @@ Fraud detection systems.
 Image classification systems.
 Natural language processing systems.
 The MNIST dataset is a valuable resource for researchers and practitioners in the field of machine learning. It is a simple, yet effective dataset for training and testing machine learning models
+
+
+Solution : https://github.com/pujitha-siva-sresta-b/BharatIntern-Repo/blob/main/Number_Recognition.ipynb
