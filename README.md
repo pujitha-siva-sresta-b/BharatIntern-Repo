@@ -31,4 +31,5 @@ This dataset can be used for a variety of purposes, such as:
 Dataset: https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction <br>
 Solution: https://github.com/pujitha-siva-sresta-b/BharatIntern-Repo/blob/main/Stock_Prediction.ipynb
 <hr>
+
 # Task 2 - Number Recognition
