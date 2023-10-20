@@ -33,3 +33,20 @@ Solution: https://github.com/pujitha-siva-sresta-b/BharatIntern-Repo/blob/main/S
 <hr>
 
 # Task 2 - Number Recognition
+## Problem Statement : Handwritten Digit Recognition Using MNIST Dataset With The Help Of Neural Network.
+The MNIST dataset is a large database of handwritten digits that is commonly used for training various image processing systems. The database is also widely used for training and testing in the field of machine learning. It contains 60,000 training images and 10,000 testing images. Each image is a 28x28 pixel grayscale image of a handwritten digit from 0 to 9. The images have been size-normalized and centered in a fixed-size image.
+
+The MNIST dataset is a popular dataset for machine learning because it is relatively simple to understand and implement. The dataset is also large enough to train a variety of machine learning models, and it is diverse enough to capture the different ways that people write digits.
+
+The MNIST dataset can be used to train a variety of machine learning models, such as:
+
+* Supervised learning models, such as support vector machines (SVMs) and decision trees.
+* Unsupervised learning models, such as k-means clustering and principal component analysis (PCA).
+* Deep learning models, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs).
+The MNIST dataset has been used to develop a variety of applications, such as:
+
+Handwritten digit recognition systems.
+Fraud detection systems.
+Image classification systems.
+Natural language processing systems.
+The MNIST dataset is a valuable resource for researchers and practitioners in the field of machine learning. It is a simple, yet effective dataset for training and testing machine learning models
